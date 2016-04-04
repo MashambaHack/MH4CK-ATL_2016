@@ -1,4 +1,4 @@
-##MashambaHack Website Uses:
+## MashambaHack Website Uses:
 
 
 ### [Start Bootstrap](http://startbootstrap.com/) ([Agency](http://startbootstrap.com/template-overviews/agency/)) - Template 
